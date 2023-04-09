@@ -7,4 +7,4 @@ tar xf fx.tar.xz
 
 rm -r fx.tar.xz
 cd /home/FiveM/server
-screen ./run.sh
+screen -S Fivem ./run.sh
